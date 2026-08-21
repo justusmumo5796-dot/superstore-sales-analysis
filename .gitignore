@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Windows system files
+Thumbs.db
