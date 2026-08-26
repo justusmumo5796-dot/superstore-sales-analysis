@@ -62,6 +62,18 @@ The project follows an end-to-end analytics workflow:
 **Business Performance Report**
 
 ---
+##  SQL Analysis
+
+PostgreSQL and SQL were used to analyze:
+
+- Executive business performance
+- Monthly sales and profit trends
+- Category performance
+- Product performance
+- Regional performance
+- Customer performance
+
+---
 
 ##  Dashboard Preview
 
