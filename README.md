@@ -169,6 +169,15 @@ Based on the analysis, the business should consider:
 
 ---
 
+##  How to View the Project
+
+1. Review the SQL analysis files in `02_SQL/` to explore the business analysis and analytical queries.
+2. Open `03_powerbi/Global_Superstore_Dashboard.pbix` using Power BI Desktop to interact with the dashboards.
+3. View the dashboard screenshots in `05_screenshots/` for a quick visual overview.
+4. Read the Business Performance Report in `04_reports/` for detailed findings and recommendations.
+   
+---
+
 ##  Business Performance Report
 
 A detailed **Global Superstore Business Performance Report** accompanies the analysis.
